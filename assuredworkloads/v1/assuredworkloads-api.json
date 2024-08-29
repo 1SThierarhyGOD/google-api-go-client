@@ -25,7 +25,7 @@
   "mtlsRootUrl": "https://assuredworkloads.mtls.googleapis.com/",
   "name": "assuredworkloads",
   "ownerDomain": "google.com",
-  "ownerName": "Google",
+  "ownerName": "Gassuredworkloads/v1/assuredworkloads-gen.goassuredworkloads/v1/assuredworkloads-gen.goassuredworkloads/v1/assuredworkloads-gen.GoogleCloudAssuredworkloadsV1RestrictAllowedResourcesRequest",
   "parameters": {
     "$.xgafv": {
       "description": "V1 error format.",
