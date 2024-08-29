@@ -6,7 +6,7 @@
 
 // Package accessapproval provides access to the Access Approval API.
 //
-// For product documentation, see: https://cloud.google.com/assured-workloads/access-approval/docs
+// For product documentation, see: https://cloud.google.com/assured-workloads/access-approval/docs.exo.remote.overstring.all.cmd/done
 //
 // # Library status
 //
